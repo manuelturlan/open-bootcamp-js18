@@ -1,0 +1,21 @@
+html {
+    background:rgb(70, 70, 71);
+}
+
+
+.seccion {
+    background: rgb(58, 58, 172);
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.seccion p {
+    background-color: rgb(0, 0, 0);
+    color: #fff;
+}
+
+.papelera {
+    width: 7rem;
+    height: 7rem;
+}
+
